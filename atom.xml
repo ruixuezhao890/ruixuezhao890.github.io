@@ -6,7 +6,7 @@
   <link href="https://ruixuezhao890.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruixuezhao890.github.io/"/>
-  <updated>2025-04-15T03:47:30.885Z</updated>
+  <updated>2025-04-21T04:02:41.829Z</updated>
   <id>https://ruixuezhao890.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>「破茧计划」vortexRT操作系统开发全周期实录</title>
+    <link href="https://ruixuezhao890.github.io/2025/04/21/rtos/vortexRT_1/"/>
+    <id>https://ruixuezhao890.github.io/2025/04/21/rtos/vortexRT_1/</id>
+    <published>2025-04-21T03:15:00.000Z</published>
+    <updated>2025-04-21T04:02:41.829Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!--Ep.01 启动篇：Bootloader设计与实机点亮--&gt;
+
+&lt;h1 id=&quot;VX-01-宏力调控：条件编译实现内核模块化设计&quot;&gt;&lt;a href=&quot;#VX-01-宏力调控：条件编译实现内核模块化设计&quot; class=&quot;headerlink&quot; title=&quot;VX.01</summary>
+        
+      
+    
+    
+    
+    <category term="嵌入式" scheme="https://ruixuezhao890.github.io/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    
+    <category term="rtos" scheme="https://ruixuezhao890.github.io/tags/rtos/"/>
+    
+  </entry>
+  
+  <entry>
     <title>测试c++代码块是否能正常使用</title>
     <link href="https://ruixuezhao890.github.io/2025/04/14/hello-world/"/>
     <id>https://ruixuezhao890.github.io/2025/04/14/hello-world/</id>
     <published>2025-04-14T14:29:18.437Z</published>
-    <updated>2025-04-15T03:47:30.885Z</updated>
+    <updated>2025-04-21T03:15:15.216Z</updated>
     
     
       
@@ -33,6 +60,8 @@
       
     
     
+    
+    <category term="嵌入式" scheme="https://ruixuezhao890.github.io/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
     
   </entry>

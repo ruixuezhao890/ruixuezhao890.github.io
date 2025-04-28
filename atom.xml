@@ -6,7 +6,7 @@
   <link href="https://ruixuezhao890.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruixuezhao890.github.io/"/>
-  <updated>2025-04-26T09:24:48.011Z</updated>
+  <updated>2025-04-28T03:54:01.123Z</updated>
   <id>https://ruixuezhao890.github.io/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「破茧计划」vortexRT操作系统开发全周期实录</title>
+    <link href="https://ruixuezhao890.github.io/2025/04/28/rtos/vortexRT_6/"/>
+    <id>https://ruixuezhao890.github.io/2025/04/28/rtos/vortexRT_6/</id>
+    <published>2025-04-28T03:47:54.000Z</published>
+    <updated>2025-04-28T03:54:01.123Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;VX-06-系统对外接口&quot;&gt;&lt;a href=&quot;#VX-06-系统对外接口&quot; class=&quot;headerlink&quot; title=&quot;VX.06 系统对外接口&quot;&gt;&lt;/a&gt;VX.06</summary>
+        
+      
+    
+    
+    
+    <category term="嵌入式" scheme="https://ruixuezhao890.github.io/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    
+    <category term="rtos" scheme="https://ruixuezhao890.github.io/tags/rtos/"/>
+    
+    <category term="vortexRT" scheme="https://ruixuezhao890.github.io/tags/vortexRT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「破茧计划」vortexRT操作系统开发全周期实录</title>
+    <link href="https://ruixuezhao890.github.io/2025/04/28/rtos/vortexRT_5/"/>
+    <id>https://ruixuezhao890.github.io/2025/04/28/rtos/vortexRT_5/</id>
+    <published>2025-04-28T03:13:37.000Z</published>
+    <updated>2025-04-28T03:30:34.258Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;VX-05-内核代理模式：安全的赋予内核能力&quot;&gt;&lt;a href=&quot;#VX-05-内核代理模式：安全的赋予内核能力&quot; class=&quot;headerlink&quot; title=&quot;VX.05 内核代理模式：安全的赋予内核能力&quot;&gt;&lt;/a&gt;VX.05</summary>
+        
+      
+    
+    
+    
+    <category term="嵌入式" scheme="https://ruixuezhao890.github.io/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    
+    <category term="rtos" scheme="https://ruixuezhao890.github.io/tags/rtos/"/>
+    
+    <category term="vortexRT" scheme="https://ruixuezhao890.github.io/tags/vortexRT/"/>
+    
+  </entry>
   
   <entry>
     <title>「破茧计划」vortexRT操作系统开发全周期实录</title>

@@ -6,7 +6,7 @@
   <link href="https://ruixuezhao890.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruixuezhao890.github.io/"/>
-  <updated>2025-05-02T12:00:38.588Z</updated>
+  <updated>2025-07-27T13:54:24.730Z</updated>
   <id>https://ruixuezhao890.github.io/</id>
   
   <author>
@@ -17,11 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>联通日记—1</title>
+    <link href="https://ruixuezhao890.github.io/2025/07/27/%E6%97%A5%E8%AE%B0/%E8%81%94%E9%80%9A%E6%97%A5%E8%AE%B0%E2%80%941/"/>
+    <id>https://ruixuezhao890.github.io/2025/07/27/%E6%97%A5%E8%AE%B0/%E8%81%94%E9%80%9A%E6%97%A5%E8%AE%B0%E2%80%941/</id>
+    <published>2025-07-27T13:51:23.000Z</published>
+    <updated>2025-07-27T13:54:24.730Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>「破茧计划」vortexRT操作系统开发全周期实录</title>
+    <link href="https://ruixuezhao890.github.io/2025/05/18/rtos/vortexRT_8/"/>
+    <id>https://ruixuezhao890.github.io/2025/05/18/rtos/vortexRT_8/</id>
+    <published>2025-05-18T07:03:47.000Z</published>
+    <updated>2025-05-18T07:04:32.256Z</updated>
+    
+    
+    
+    
+    <category term="嵌入式" scheme="https://ruixuezhao890.github.io/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    
+    <category term="rtos" scheme="https://ruixuezhao890.github.io/tags/rtos/"/>
+    
+    <category term="vortexRT" scheme="https://ruixuezhao890.github.io/tags/vortexRT/"/>
+    
+  </entry>
+  
+  <entry>
     <title>「破茧计划」vortexRT操作系统开发全周期实录</title>
     <link href="https://ruixuezhao890.github.io/2025/05/02/rtos/vortexRT_7/"/>
     <id>https://ruixuezhao890.github.io/2025/05/02/rtos/vortexRT_7/</id>
     <published>2025-05-02T07:20:08.000Z</published>
-    <updated>2025-05-02T12:00:38.588Z</updated>
+    <updated>2025-05-05T09:15:32.503Z</updated>
     
     
       

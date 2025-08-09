@@ -6,7 +6,7 @@
   <link href="https://ruixuezhao890.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruixuezhao890.github.io/"/>
-  <updated>2025-08-08T14:32:20.265Z</updated>
+  <updated>2025-08-09T14:42:24.501Z</updated>
   <id>https://ruixuezhao890.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>联通日记—13</title>
+    <link href="https://ruixuezhao890.github.io/2025/08/09/%E6%97%A5%E8%AE%B0/%E8%81%94%E9%80%9A%E6%97%A5%E8%AE%B0%E2%80%9413/"/>
+    <id>https://ruixuezhao890.github.io/2025/08/09/%E6%97%A5%E8%AE%B0/%E8%81%94%E9%80%9A%E6%97%A5%E8%AE%B0%E2%80%9413/</id>
+    <published>2025-08-09T14:26:22.000Z</published>
+    <updated>2025-08-09T14:42:24.501Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="联通日记" scheme="https://ruixuezhao890.github.io/categories/%E8%81%94%E9%80%9A%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="https://ruixuezhao890.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>联通日记—12</title>
@@ -411,33 +430,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;VX-02-内核设计：最重要的实现&quot;&gt;&lt;a href=&quot;#VX-02-内核设计：最重要的实现&quot; class=&quot;headerlink&quot; title=&quot;VX.02  内核设计：最重要的实现&quot;&gt;&lt;/a&gt;VX.02 </summary>
-        
-      
-    
-    
-    
-    <category term="嵌入式" scheme="https://ruixuezhao890.github.io/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-    
-    <category term="rtos" scheme="https://ruixuezhao890.github.io/tags/rtos/"/>
-    
-    <category term="vortexRT" scheme="https://ruixuezhao890.github.io/tags/vortexRT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「破茧计划」vortexRT操作系统开发全周期实录</title>
-    <link href="https://ruixuezhao890.github.io/2025/04/21/rtos/vortexRT_1/"/>
-    <id>https://ruixuezhao890.github.io/2025/04/21/rtos/vortexRT_1/</id>
-    <published>2025-04-21T15:47:11.000Z</published>
-    <updated>2025-05-02T07:50:50.506Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;VX-01-宏调控：条件编译实现内核模块化设计&quot;&gt;&lt;a href=&quot;#VX-01-宏调控：条件编译实现内核模块化设计&quot; class=&quot;headerlink&quot; title=&quot;VX.01 宏调控：条件编译实现内核模块化设计&quot;&gt;&lt;/a&gt;VX.01</summary>
         
       
     

@@ -6,7 +6,7 @@
   <link href="https://ruixuezhao890.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruixuezhao890.github.io/"/>
-  <updated>2025-08-09T14:42:24.501Z</updated>
+  <updated>2025-08-11T14:42:09.288Z</updated>
   <id>https://ruixuezhao890.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>联通日记—14</title>
+    <link href="https://ruixuezhao890.github.io/2025/08/11/%E6%97%A5%E8%AE%B0/%E8%81%94%E9%80%9A%E6%97%A5%E8%AE%B0%E2%80%9414/"/>
+    <id>https://ruixuezhao890.github.io/2025/08/11/%E6%97%A5%E8%AE%B0/%E8%81%94%E9%80%9A%E6%97%A5%E8%AE%B0%E2%80%9414/</id>
+    <published>2025-08-11T14:25:34.000Z</published>
+    <updated>2025-08-11T14:42:09.288Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="联通日记" scheme="https://ruixuezhao890.github.io/categories/%E8%81%94%E9%80%9A%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="https://ruixuezhao890.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>联通日记—13</title>
@@ -403,33 +422,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;VX-03-基础进程实现：并行基石&quot;&gt;&lt;a href=&quot;#VX-03-基础进程实现：并行基石&quot; class=&quot;headerlink&quot; title=&quot;VX.03 基础进程实现：并行基石&quot;&gt;&lt;/a&gt;VX.03</summary>
-        
-      
-    
-    
-    
-    <category term="嵌入式" scheme="https://ruixuezhao890.github.io/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-    
-    <category term="rtos" scheme="https://ruixuezhao890.github.io/tags/rtos/"/>
-    
-    <category term="vortexRT" scheme="https://ruixuezhao890.github.io/tags/vortexRT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「破茧计划」vortexRT操作系统开发全周期实录</title>
-    <link href="https://ruixuezhao890.github.io/2025/04/22/rtos/vortexRT_2/"/>
-    <id>https://ruixuezhao890.github.io/2025/04/22/rtos/vortexRT_2/</id>
-    <published>2025-04-22T13:00:47.000Z</published>
-    <updated>2025-04-25T00:53:15.930Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;VX-02-内核设计：最重要的实现&quot;&gt;&lt;a href=&quot;#VX-02-内核设计：最重要的实现&quot; class=&quot;headerlink&quot; title=&quot;VX.02  内核设计：最重要的实现&quot;&gt;&lt;/a&gt;VX.02 </summary>
         
       
     
